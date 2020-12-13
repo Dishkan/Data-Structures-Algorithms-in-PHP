@@ -27,5 +27,5 @@ function mergeArrays(&$arr1, &$arr2, $n1, $n2, &$arr3)
 } 
 echo "Array after merging - " ; 
 for ($i = 0; $i < $n1 + $n2; $i++) 
-echo $arr3[$i] . " "; 
+echo $arr3[$i] . " ";
 ?> 
